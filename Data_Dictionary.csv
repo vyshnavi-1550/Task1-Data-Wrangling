@@ -1,0 +1,26 @@
+Column Name,Data Type,Description
+Row ID,Integer,Unique row identifier
+Order Priority,Text,Priority assigned to order
+Discount,Decimal,Discount applied to order
+Unit Price,Decimal,Price per product unit
+Shipping Cost,Decimal,Cost of shipping
+Customer ID,Integer,Unique customer identifier
+Customer Name,Text,Customer name
+Ship Mode,Text,Shipping method used
+Customer Segment,Text,Customer category
+Product Category,Text,Main product category
+Product Sub-Category,Text,Product subcategory
+Product Container,Text,Packaging type
+Product Name,Text,Name of product
+Product Base Margin,Decimal,Base profit margin
+Region,Text,Sales region
+State or Province,Text,Customer state/province
+City,Text,Customer city
+Postal Code,Integer,Postal code
+Order Date,Date,Date order was placed
+Ship Date,Date,Date order was shipped
+Profit,Decimal,Profit earned
+Quantity ordered new,Integer,Quantity ordered
+Sales,Decimal,Sales revenue
+Order ID,Integer,Unique order identifier
+Shipping Days,Integer,Days between order and shipping
